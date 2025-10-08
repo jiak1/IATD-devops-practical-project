@@ -5,7 +5,13 @@ const num1 = 3
 const num2 = 10
 
 console.log('first script')
+// example
 
+/*
+i 
+am adding
+some comments
+*/
 console.log('hello')
 console.log(myName)
 console.log(num1 + num2)
