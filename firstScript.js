@@ -12,9 +12,6 @@ i
 am adding
 some comments
 */
-console.log('hello')
-console.log(myName)
-console.log(num1 + num2)
 
 const reply = readlineSync.question('Enter your reply: ')
 console.log(reply)
