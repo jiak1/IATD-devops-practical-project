@@ -1,21 +1,3 @@
-import readlineSync from 'readline-sync'
-
-const myName = readlineSync.question('What is your name? ')
-const num1 = 3
-const num2 = 10
-
-console.log('first script')
-// example
-
-/*
-i 
-am adding
-some comments
-*/
-console.log('hello')
-console.log(myName)
-console.log(num1 + num2)
-
 const reply = readlineSync.question('Enter your reply: ')
 console.log(reply)
 
@@ -34,6 +16,10 @@ console.log(meals[2])
 meals[3] = 'dinner'
 
 console.log(meals[3])
+
+console.log('hello')
+console.log(myName)
+console.log(num1 + num2)
 
 let userInput = []
 let index = 0
